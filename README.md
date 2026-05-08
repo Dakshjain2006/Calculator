@@ -3,7 +3,7 @@
 A visually stunning cyberpunk-aesthetic calculator with animated glow effects and full keyboard support.
 
 ## 🚀 Live Demo
-[dakshjain.github.io/quantum-calculator](https://Dakshjain2006.github.io/quantum-calculator)
+[Dakshjain.github.io/quantum-calculator](https://Dakshjain2006.github.io/quantum-calculator)
 
 ## ✨ Features
 - Full arithmetic: `+`, `−`, `×`, `÷`, `%`
