@@ -3,7 +3,7 @@
 A visually stunning cyberpunk-aesthetic calculator with animated glow effects and full keyboard support.
 
 ## 🚀 Live Demo
-[dakshjain.github.io/quantum-calculator](https://dakshjain.github.io/quantum-calculator)
+[dakshjain.github.io/quantum-calculator](https://Dakshjain2006.github.io/quantum-calculator)
 
 ## ✨ Features
 - Full arithmetic: `+`, `−`, `×`, `÷`, `%`
@@ -29,18 +29,4 @@ quantum-calculator/
 └── README.md
 ```
 
-## 🏃 Run Locally
-```bash
-git clone https://github.com/dakshjain/quantum-calculator
-cd quantum-calculator
-# Open index.html in any browser — no build step required
-open index.html
-```
-
-## 🌐 Deploy to GitHub Pages
-1. Push to GitHub
-2. Go to **Settings → Pages → Branch: main → / (root)**
-3. Your site will be live at `https://<username>.github.io/quantum-calculator`
-
----
 Built by **Daksh Jain** · B.Tech CSAI, NSUT
